@@ -1,3 +1,4 @@
+# Cria um arquivo txt de mais de 16GB
 import itertools
 
 # Caracteres possíveis para a wordlist (letras minúsculas e números)
